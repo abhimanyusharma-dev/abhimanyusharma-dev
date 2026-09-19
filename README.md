@@ -22,7 +22,7 @@ Aspiring Software Engineer | AI & Data Science | Full-Stack Developer
 
 ☁️ Exploring **AWS, cloud deployment and scalable application development**.
 
-🧠 Currently improving my **Data Structures, Machine Learning, AI and software development** skills.
+🧠 Currently improving my **Data Structures, Machine Learning, AI and Software Development** skills.
 
 🚀 I enjoy turning ideas into practical, real-world technology solutions.
 
@@ -45,10 +45,6 @@ Aspiring Software Engineer | AI & Data Science | Full-Stack Developer
 </p>
 
 ### 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch&perline=8" />
-</p>
 
 <p align="center">
 
@@ -78,15 +74,16 @@ Aspiring Software Engineer | AI & Data Science | Full-Stack Developer
 
 ### 🛰️ IBVAP — Intelligent Border Video Analytics Platform
 
-AI-powered video analytics platform designed for intelligent border surveillance.
+AI-powered video analytics platform for intelligent border surveillance.
 
-**Key Technologies:**
+**Key Technologies & Features:**
+
 - Computer Vision
 - Object Detection & Tracking
 - AI-based Video Analytics
 - Real-time Monitoring
 - Intelligent Alerts
-- Dashboard-based Surveillance
+- Surveillance Dashboard
 
 ---
 
@@ -95,6 +92,7 @@ AI-powered video analytics platform designed for intelligent border surveillance
 A vision-language assistant for **remote sensing and satellite image analysis**.
 
 **Key Features:**
+
 - Satellite Image Analysis
 - AI-powered Visual Question Answering
 - Multi-intent Query Processing
@@ -103,6 +101,7 @@ A vision-language assistant for **remote sensing and satellite image analysis**.
 - NDVI / NDWI / NBR Analysis
 
 **Tech Stack:**
+
 `React` `FastAPI` `Python` `MongoDB` `AI Vision Models`
 
 ---
@@ -112,6 +111,7 @@ A vision-language assistant for **remote sensing and satellite image analysis**.
 An AI-powered medicine availability and pharmacy platform.
 
 **Key Features:**
+
 - AI Prescription Recognition
 - Medicine Identification
 - Nearby Pharmacy Search
@@ -121,6 +121,7 @@ An AI-powered medicine availability and pharmacy platform.
 - User & Store Owner Dashboards
 
 **Tech Stack:**
+
 `React` `Node.js` `MongoDB` `Firebase` `AI` `OCR`
 
 ---
@@ -130,7 +131,8 @@ An AI-powered medicine availability and pharmacy platform.
 AWS-based real-time stock monitoring and trading dashboard.
 
 **Technologies:**
-`AWS` `JavaScript` `Web Development` `Cloud Services`
+
+`AWS` `JavaScript` `Cloud Services` `Web Development`
 
 ---
 
@@ -146,14 +148,14 @@ AWS-based real-time stock monitoring and trading dashboard.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/abhimanyu1sanju-art" target="_blank">
+<a href="https://github.com/abhimanyusharma-dev" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-  Open to Collaboration • Building • Learning • Growing
+Open to Collaboration • Building • Learning • Growing
 </p>
 
 ---
@@ -162,19 +164,13 @@ AWS-based real-time stock monitoring and trading dashboard.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhimanyu1sanju-art&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhimanyusharma-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhimanyu1sanju-art&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu1sanju-art&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyusharma-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -184,19 +180,33 @@ AWS-based real-time stock monitoring and trading dashboard.
 
 <p align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/abhimanyusharma-dev/abhimanyusharma-dev/output/github-contribution-grid-snake.svg" />
 
 </p>
 
 ---
 
-## 💡 Current Focus
+## 🎯 Current Focus
 
-```text
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Data Science
-Full-Stack Development
-Cloud & AWS
-DSA
+<p align="center">
+
+`Artificial Intelligence` • `Machine Learning` • `Computer Vision` • `Data Science` • `Full-Stack Development` • `Cloud & AWS` • `DSA`
+
+</p>
+
+---
+
+## 🚀 2026 Goals
+
+- Build practical AI-powered applications
+- Strengthen Machine Learning & Data Science fundamentals
+- Improve DSA and problem-solving
+- Learn advanced Computer Vision & LLM applications
+- Contribute to Open Source
+- Become a proficient AI & Software Engineer
+
+---
+
+## 💡 Quote
+
+> "Keep Building. Keep Learning. Keep Growing."
