@@ -1,95 +1,202 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Sharma</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer </h3>
+
+<h3 align="center">
+Aspiring Software Engineer | AI & Data Science | Full-Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=800&lines=AI+%26+Data+Science+Enthusiast;Aspiring+Software+Engineer;Building+AI-Powered+Applications;Exploring+Machine+Learning+%26+Computer+Vision;Always+Learning+%26+Building" />
 </p>
 
 ---
 
-#  About Me
+## 👨‍💻 About Me
 
- MERN Stack Developer passionate about building modern full-stack web applications.
+🎓 B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Data Science**.
 
-I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to create full-stack applications.
+🤖 Interested in **Artificial Intelligence, Machine Learning, Computer Vision, NLP and LLMs**.
 
- Interested in REST APIs, Authentication, MongoDB, AI Integration, and Production-ready applications.
+💻 I build **AI-powered and full-stack applications** using modern technologies.
 
+🌐 Experienced with **React, JavaScript, Node.js, Flask, FastAPI and MongoDB**.
 
-🤝 Open to collaborating on open-source and full-stack projects.
+☁️ Exploring **AWS, cloud deployment and scalable application development**.
 
----
+🧠 Currently improving my **Data Structures, Machine Learning, AI and software development** skills.
 
-#  Tech Stack
+🚀 I enjoy turning ideas into practical, real-world technology solutions.
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,postman,vscode,vite&perline=7" />
-
-</p>
-
-
-
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
-
-</p>
+🤝 Open to collaborating on **AI, Machine Learning, Full-Stack and Open-Source projects**.
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
 
 <p align="center">
-<a href="https://www.linkedin.com/in/avinaashsharma4" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=8" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,flask&perline=8" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch&perline=8" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=plastic&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-000000?style=plastic&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/NLP-000000?style=plastic"/>
+<img src="https://img.shields.io/badge/LLM-000000?style=plastic"/>
+<img src="https://img.shields.io/badge/OCR-000000?style=plastic"/>
+
+</p>
+
+### 🗄️ Database & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,nodejs,express,fastapi&perline=8" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel&perline=8" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ IBVAP — Intelligent Border Video Analytics Platform
+
+AI-powered video analytics platform designed for intelligent border surveillance.
+
+**Key Technologies:**
+- Computer Vision
+- Object Detection & Tracking
+- AI-based Video Analytics
+- Real-time Monitoring
+- Intelligent Alerts
+- Dashboard-based Surveillance
+
+---
+
+### 🌍 SatQuery AI
+
+A vision-language assistant for **remote sensing and satellite image analysis**.
+
+**Key Features:**
+- Satellite Image Analysis
+- AI-powered Visual Question Answering
+- Multi-intent Query Processing
+- Image Comparison
+- Remote Sensing Analysis
+- NDVI / NDWI / NBR Analysis
+
+**Tech Stack:**
+`React` `FastAPI` `Python` `MongoDB` `AI Vision Models`
+
+---
+
+### 💊 MedAccess
+
+An AI-powered medicine availability and pharmacy platform.
+
+**Key Features:**
+- AI Prescription Recognition
+- Medicine Identification
+- Nearby Pharmacy Search
+- Medicine Availability
+- Pharmacy Trust & Ranking
+- Medicine Reservation
+- User & Store Owner Dashboards
+
+**Tech Stack:**
+`React` `Node.js` `MongoDB` `Firebase` `AI` `OCR`
+
+---
+
+### 📈 Real-Time Stock Trading Dashboard
+
+AWS-based real-time stock monitoring and trading dashboard.
+
+**Technologies:**
+`AWS` `JavaScript` `Web Development` `Cloud Services`
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhimanyu-sharma-b589313a0/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:avinaashsharma4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://abhimanyu-port.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/avinaashsharma">
+<a href="https://github.com/abhimanyu1sanju-art" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 <p align="center">
- Open for Collaboration • 📧 Feel free to connect
+  Open to Collaboration • Building • Learning • Growing
 </p>
 
 ---
 
+## 📊 GitHub Stats
 
-###  GitHub Stats
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=avinaashsharma&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=abhimanyu1sanju-art&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=avinaashsharma&theme=tokyonight)
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avinaashsharma&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhimanyu1sanju-art&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu1sanju-art&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
-### Contribution Graph
+## 🐍 Contribution Graph
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
+</p>
 
 ---
 
-### Quote
+## 💡 Current Focus
 
-> "Keep Building. Keep Learning. Keep Growing."
+```text
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Data Science
+Full-Stack Development
+Cloud & AWS
+DSA
